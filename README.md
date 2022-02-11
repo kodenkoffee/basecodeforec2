@@ -1,2 +1,2 @@
-# basecodeforec2
-Base code to setup default network to access ec2 instance through TFE 
+# Overview
+this repo contains base code for setting up default network to access ec2 instance. 
